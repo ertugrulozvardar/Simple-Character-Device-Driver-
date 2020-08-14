@@ -1,0 +1,1 @@
+cmd_/home/ertugrul/Desktop/CS350_p/char_dev_driver.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/ertugrul/Desktop/CS350_p/char_dev_driver.ko /home/ertugrul/Desktop/CS350_p/char_dev_driver.o /home/ertugrul/Desktop/CS350_p/char_dev_driver.mod.o ;  true
